@@ -206,6 +206,13 @@ pair_file.tsv
 
 ---
 
+## Data availability
+
+The datasets used in this project are available on Figshare:
+
+[Figshare link]
+
+
 ## Author
 
 ZHANG SULIN
